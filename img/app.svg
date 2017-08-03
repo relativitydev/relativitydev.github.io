@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/App</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Style-guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-502.000000, -246.000000)" id="Icon/App" fill="#2E2E2E">
+            <g transform="translate(502.000000, 246.000000)">
+                <path d="M0,0 L0,16 L16,16 L16,0 L0,0 Z M15.3615023,0.638497653 L15.3615023,3.19248826 L0.638497653,3.19248826 L0.638497653,0.638497653 L15.3615023,0.638497653 Z M0.638497653,15.3615023 L0.638497653,3.83098592 L15.3615023,3.83098592 L15.3615023,15.3615023 L0.638497653,15.3615023 Z M4.16901408,2.21596244 L14.084507,2.21596244 L14.084507,1.57746479 L4.16901408,1.57746479 L4.16901408,2.21596244 Z M1.57746479,2.21596244 L2.21596244,2.21596244 L2.21596244,1.57746479 L1.57746479,1.57746479 L1.57746479,2.21596244 Z M2.89201878,2.21596244 L3.53051643,2.21596244 L3.53051643,1.57746479 L2.89201878,1.57746479 L2.89201878,2.21596244 Z" id="Page-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

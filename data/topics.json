@@ -1,0 +1,18 @@
+﻿[
+    { "name":"Visual Studio"},
+    { "name": "Relativity Applications" },
+    { "name": "Custom Objects" },
+    { "name": "Agents" },
+    { "name": "Relativity Scripts" },
+    { "name": "Powershell Scripts" },
+    { "name": "SQL Scripts" },
+    { "name": "Testing" },
+    { "name": "ARM" },
+    { "name": "Import API" },
+    { "name": "Relativity Integration Points" },
+    { "name": "REST API" },
+    { "name": "ObjectManager API" },
+    { "name": "Processing" },
+    { "name": "Collection" },
+    { "name": "Analytics" }
+]

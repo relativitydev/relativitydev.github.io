@@ -1,0 +1,42 @@
+﻿[
+    {
+        "name": "RELATIVITY",
+        "gitHubOrgName": "kcura-relativity",
+        "authorType": "relativity"
+    },
+    {
+        "name": "NSERIO",
+        "gitHubOrgName": "",
+        "authorType": "development partners"
+    },
+    {
+        "name": "MILYLI",
+        "gitHubOrgName": "",
+        "authorType": "development partners"
+    },
+    {
+        "name": "CLARITY",
+        "gitHubOrgName": "",
+        "authorType": "development partners"
+    },
+    {
+        "name": "TSD SERVICES",
+        "gitHubOrgName": "",
+        "authorType": "development partners"
+    },
+    {
+        "name": "ANEXSYS",
+        "gitHubOrgName": "",
+        "authorType": "development partners"
+    },
+    {
+        "name": "HERETIK",
+        "gitHubOrgName": "",
+        "authorType": "development partners"
+    },
+    {
+        "name": "NEXLP",
+        "gitHubOrgName": "",
+        "authorType": "development partners"
+    }
+]

@@ -1,0 +1,19 @@
+﻿[
+    {
+        "partner": "relativity",
+        "repository": "relativity-test-helpers"
+    },
+    {
+        "partner": "Language.ai",
+        "repository": "markup-utilities"
+    },
+    {
+        "partner": "relativity",
+        "repository": "field-finder"
+    },
+    {
+        "partner": "nserio",
+        "repository": "processing-assistant"
+    }
+]
+

@@ -3,6 +3,9 @@
 ## Add/Remove Featured Repositores
 To edit the featured repositories, add/remove or update the data/featured-repos.json with the desired repository information.  Each featured repository must have an org and repository property. The org property should match the name property from one of the entries in the organizations array in the organizations.json file.  The repository property should match the name of the GitHub repository.
 
+## Add/Remove Repositories
+To edit the repositories, add/remove or update the data/repositories.json file with the desired repository information.  The properties for the repository items should match the information available at the actual GitHub repository the item is representing.
+
 ## Add/Remove Topics
 To add a new topic, insert the topic at the end of the array in the data/topics.json file.
 
@@ -13,6 +16,6 @@ To add a new organization, insert the organization object at the end of the arra
 - open source community
 
 ## Source Code
-The source code for this application can be found at: https://github.com/relativity-dev/relativity-dev.github.io. 
+The source code for this application can be found at: https://github.com/kCura-Relativity/kCura-Relativity.github.io.uc. 
 
 

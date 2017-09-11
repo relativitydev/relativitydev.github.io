@@ -464,5 +464,20 @@
         "topics":  null,
         "html_url":  "https://github.com/relativitydev/javascript-pi",
         "stargazers_count":  0
+    },
+    {
+        "id": 101884932,
+        "name": "RelativityMultiChoiceHandler",
+        "full_name": "Anexsys/RelativityMultiChoiceHandler",
+        "html_url": "https://github.com/Anexsys/RelativityMultiChoiceHandler",
+        "description": "Project Champion - Anexsys: Use the MultiChoiceHelpers class to generate a MultiChoiceFieldValueList object from a list of strings. If the choices do not exist in the workspace in Relativity, they will be created.",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "partner": "Anexsys",
+        "authorType": "development partners",
+        "projectType": "script",
+        "topics": [],
+        "isFeatured": false,
+        "version": ""
     }
 ]

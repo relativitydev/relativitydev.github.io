@@ -1,19 +1,20 @@
 ﻿[
-    {
-        "partner": "relativity",
-        "repository": "relativity-test-helpers"
-    },
+    
     {
         "partner": "Language.ai",
         "repository": "markup-utilities"
     },
     {
-        "partner": "TSD Services",
-        "repository": "field-finder"
+        "partner": "relativity",
+        "repository": "relativity-test-helpers"
     },
     {
         "partner": "nserio",
         "repository": "processing-assistant"
-    }
+    },
+    {
+        "partner": "TSD Services",
+        "repository": "gravity"
+    },
 ]
 

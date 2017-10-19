@@ -1,5 +1,4 @@
 ﻿[
-    
     {
         "partner": "Language.ai",
         "repository": "markup-utilities"
@@ -13,8 +12,8 @@
         "repository": "processing-assistant"
     },
     {
-        "partner": "TSD Services",
-        "repository": "gravity"
+        "partner": "TSD",
+        "repository": "field-finder"
     },
 ]
 

@@ -1,20 +1,5 @@
 ﻿[
     {
-        "id": 103377412,
-        "description": "CRUDQ Framework for Relativity Custom Development",
-        "stargazers_count": 1,
-        "forks_count": 1,
-        "partner": "TSD Services",
-        "authorType": "development partners",
-        "projectType": "app",
-        "topics": [],
-        "isFeatured": true,
-        "html_url": "https://github.com/tsdservices/Gravity",
-        "full_name": "tsdservices/Gravity",
-        "name": "gravity",
-        "version": ""
-    },
-    {
         "id": 73114662,
         "description": "Project Champion - TSD, Relativity Application: The Field Finder solution allows you to extract certain text from a document's OCR text field and populate that text in specified workspace fields. ",
         "stargazers_count": 1,
@@ -495,7 +480,7 @@
         "isFeatured": false,
         "version": ""
     },
-	{
+    {
         "id": 105306715,
         "name": "RelativityScriptRunner",
         "full_name": "Milyli/RelativityScriptRunner",

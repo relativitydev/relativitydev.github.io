@@ -14,5 +14,9 @@
     {
         "partner": "TSD Services",
         "repository": "Gravity"
+    },
+    {
+        "partner": "relativity",
+        "repository": "salesforce_rip_connector"
     }
 ]

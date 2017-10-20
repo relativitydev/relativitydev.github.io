@@ -8,11 +8,11 @@
         "repository": "markup-utilities"
     },
     {
-        "partner": "TSD Services",
-        "repository": "field-finder"
-    },
-    {
         "partner": "nserio",
         "repository": "processing-assistant"
+    },
+    {
+        "partner": "TSD Services",
+        "repository": "Gravity"
     }
 ]

@@ -15,6 +15,21 @@
         "version": ""
     },
     {
+        "id": 98329381,
+        "name": "rip_social_media_provider",
+        "full_name": "relativitydev/rip_social_media_provider",
+        "html_url": "https://github.com/relativitydev/rip_social_media_provider",
+        "description": "This repository will store a Twitter Provider for the Relativity Integration points framework.  It will be used to host a workshop and also used as a tutorial in a workbook.",
+        "stargazers_count": 6,
+        "forks_count": 0,
+        "partner": "relativity",
+        "authorType": "open source community",
+        "projectType": "tool",
+        "topics": [],
+        "isFeatured": true,
+        "version": "9.5"
+    },
+    {
         "id": 107443425,
         "name": "salesforce_rip_connector",
         "full_name": "relativitydev/salesforce_rip_connector",

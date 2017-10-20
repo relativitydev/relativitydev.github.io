@@ -18,5 +18,9 @@
     {
         "partner": "relativity",
         "repository": "salesforce_rip_connector"
+    },
+    {
+        "partner": "relativity",
+        "repository": "rip_social_media_provider"
     }
 ]

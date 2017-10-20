@@ -15,6 +15,21 @@
         "version": ""
     },
     {
+        "id": 107443425,
+        "name": "salesforce_rip_connector",
+        "full_name": "relativitydev/salesforce_rip_connector",
+        "html_url": "https://github.com/relativitydev/salesforce_rip_connector",
+        "description": "Starter kit for Salesforce Relativity Integration Point",
+        "stargazers_count": 6,
+        "forks_count": 0,
+        "partner": "relativity",
+        "authorType": "open source community",
+        "projectType": "tool",
+        "topics": [],
+        "isFeatured": true,
+        "version": "9.5"
+    },
+    {
         "id": 74522883,
         "name": "custom-page-mass-action",
         "full_name": "relativitydev/custom-page-mass-action",

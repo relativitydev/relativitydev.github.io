@@ -90,6 +90,21 @@
         "version": ""
     },
     {
+        "id": 83606687,
+        "name": "markup-utilities",
+        "full_name": "relativitydev/markup-utilities",
+        "html_url": "https://github.com/relativitydev/markup-utilities",
+        "description": "Project Champion - Language.ai:  This Relativity Application allows the end user to import and export redactions into a Workspace.  The export functionality writes redactions to a file which can then be used by the import functionality to import redactions into the same workspace (for a different Markup Set), a different Workspace in the same environment or a Workspace in a completely different environment.",
+        "stargazers_count": 1,
+        "forks_count": 1,
+        "partner": "Language.ai",
+        "authorType": "development partners",
+        "projectType": "app",
+        "topics": [],
+        "isFeatured": true,
+        "version": ""
+    },
+    {
         "id": 75880738,
         "name": "remove-tde-sql",
         "full_name": "relativitydev/remove-tde-sql",
@@ -132,21 +147,6 @@
         "projectType": "app",
         "topics": [],
         "isFeatured": false,
-        "version": ""
-    },
-    {
-        "id": 83606687,
-        "name": "markup-utilities",
-        "full_name": "relativitydev/markup-utilities",
-        "html_url": "https://github.com/relativitydev/markup-utilities",
-        "description": "Project Champion - Language.ai:  This Relativity Application allows the end user to import and export redactions into a Workspace.  The export functionality writes redactions to a file which can then be used by the import functionality to import redactions into the same workspace (for a different Markup Set), a different Workspace in the same environment or a Workspace in a completely different environment.",
-        "stargazers_count": 1,
-        "forks_count": 1,
-        "partner": "Language.ai",
-        "authorType": "development partners",
-        "projectType": "app",
-        "topics": [],
-        "isFeatured": true,
         "version": ""
     },
     {

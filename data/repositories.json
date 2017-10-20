@@ -45,6 +45,36 @@
         "version": "9.5"
     },
     {
+        "id": 101884932,
+        "name": "RelativityMultiChoiceHandler",
+        "full_name": "Anexsys/RelativityMultiChoiceHandler",
+        "html_url": "https://github.com/Anexsys/RelativityMultiChoiceHandler",
+        "description": "Project Champion - Anexsys: Use the MultiChoiceHelpers class to generate a MultiChoiceFieldValueList object from a list of strings. If the choices do not exist in the workspace in Relativity, they will be created.",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "partner": "Anexsys",
+        "authorType": "development partners",
+        "projectType": "script",
+        "topics": [],
+        "isFeatured": false,
+        "version": ""
+    },
+    {
+        "id": 105306715,
+        "name": "RelativityScriptRunner",
+        "full_name": "Milyli/RelativityScriptRunner",
+        "html_url": "https://github.com/Milyli/RelativityScriptRunner",
+        "description": "Run scripts automatically at regularly scheduled intervals on the Relativity e-discovery platform.",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "partner": "Milyli",
+        "authorType": "development partners",
+        "projectType": "script",
+        "topics": [],
+        "isFeatured": false,
+        "version": ""
+    },
+    {
         "id": 74522883,
         "name": "custom-page-mass-action",
         "full_name": "relativitydev/custom-page-mass-action",
@@ -494,36 +524,6 @@
         "topics":  null,
         "html_url":  "https://github.com/relativitydev/javascript-pi",
         "stargazers_count":  0
-    },
-    {
-        "id": 101884932,
-        "name": "RelativityMultiChoiceHandler",
-        "full_name": "Anexsys/RelativityMultiChoiceHandler",
-        "html_url": "https://github.com/Anexsys/RelativityMultiChoiceHandler",
-        "description": "Project Champion - Anexsys: Use the MultiChoiceHelpers class to generate a MultiChoiceFieldValueList object from a list of strings. If the choices do not exist in the workspace in Relativity, they will be created.",
-        "stargazers_count": 0,
-        "forks_count": 0,
-        "partner": "Anexsys",
-        "authorType": "development partners",
-        "projectType": "script",
-        "topics": [],
-        "isFeatured": false,
-        "version": ""
-    },
-    {
-        "id": 105306715,
-        "name": "RelativityScriptRunner",
-        "full_name": "Milyli/RelativityScriptRunner",
-        "html_url": "https://github.com/Milyli/RelativityScriptRunner",
-        "description": "Run scripts automatically at regularly scheduled intervals on the Relativity e-discovery platform.",
-        "stargazers_count": 0,
-        "forks_count": 0,
-        "partner": "Milyli",
-        "authorType": "development partners",
-        "projectType": "script",
-        "topics": [],
-        "isFeatured": false,
-        "version": ""
     },
     {
         "id": 103377412,

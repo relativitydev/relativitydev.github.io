@@ -75,6 +75,21 @@
         "version": "9.5"
     },
     {
+        "id": 107721383,
+        "name": "ads-solutions-fest-2017",
+        "full_name": "relativitydev/ads-solutions-fest-2017",
+        "html_url": "https://github.com/relativitydev/ads-solutions-fest-2017",
+        "description": "This repository consists the source code for the \"HOW TO CREATE SOLUTIONS FOR RELATIVITY & ADS SOLUTIONS\" Fest 2017 workshop",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "partner": "relativity",
+        "authorType": "open source community",
+        "projectType": "tool",
+        "topics": [],
+        "isFeatured": true,
+        "version": "9.5"
+    },
+    {
         "id": 101884932,
         "name": "RelativityMultiChoiceHandler",
         "full_name": "Anexsys/RelativityMultiChoiceHandler",

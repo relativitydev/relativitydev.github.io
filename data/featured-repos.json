@@ -18,5 +18,11 @@
     {
         "partner": "nserio",
         "repository": "processing-assistant"
+    },
+    {
+        "partner": "relativity",
+        "repository": "ads-solutions-fest-2017"
     }
+     
+     
 ]

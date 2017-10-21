@@ -94,7 +94,7 @@
         "name": "RelativityScriptRunner",
         "full_name": "Milyli/RelativityScriptRunner",
         "html_url": "https://github.com/Milyli/RelativityScriptRunner",
-        "description": "Run scripts automatically at regularly scheduled intervals on the Relativity e-discovery platform.",
+        "description": "The Script Runner is a Relativity application that allows administrators to create scheduled jobs that automatically run Relativity Scripts.  Any number of jobs can be schedule, all with custom days, times and inputs for each.  The Script Runner includes a custom page for users to configure the jobs as well as a custom agen to handle processing each job.",
         "stargazers_count": 0,
         "forks_count": 0,
         "partner": "Milyli",

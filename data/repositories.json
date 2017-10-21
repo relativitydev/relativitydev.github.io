@@ -16,7 +16,7 @@
     },
     {
         "id": 103377412,
-        "description": "CRUDQ Framework for Relativity Custom Development.",
+        "description": "Gravity is an ORM Framework for Relativity Custom development.  It offers CRUDQ operations for Relativity Dynamic Objects.  It makes working with RDOs as simple as working with native .Net objects.",
         "stargazers_count": 1,
         "forks_count": 0,
         "partner": "TSD Services",

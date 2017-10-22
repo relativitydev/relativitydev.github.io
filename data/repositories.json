@@ -135,6 +135,21 @@
         "version": ""
     },
     {
+        "id": 87436496,
+        "name": "application-parser",
+        "full_name": "relativitydev/application-parser",
+        "html_url": "https://github.com/relativitydev/application-parser",
+        "description": "Project Champion - Heretik: This nuget package is used to extract information from Relativity's application for development.",
+        "stargazers_count": 2,
+        "forks_count": 1,
+        "partner": "Heretik",
+        "authorType": "development partners",
+        "projectType": "tool",
+        "topics": [],
+        "isFeatured": false,
+        "version": ""
+    },
+    {
         "id": 83606687,
         "name": "markup-utilities",
         "full_name": "relativitydev/markup-utilities",
@@ -323,21 +338,6 @@
         "stargazers_count": 0,
         "forks_count": 1,
         "partner": "Anexsys",
-        "authorType": "development partners",
-        "projectType": "tool",
-        "topics": [],
-        "isFeatured": false,
-        "version": ""
-    },
-    {
-        "id": 87436496,
-        "name": "application-parser",
-        "full_name": "relativitydev/application-parser",
-        "html_url": "https://github.com/relativitydev/application-parser",
-        "description": "Project Champion - Heretik: This nuget package is used to extract information from Relativity's application for development.",
-        "stargazers_count": 2,
-        "forks_count": 1,
-        "partner": "Heretik",
         "authorType": "development partners",
         "projectType": "tool",
         "topics": [],

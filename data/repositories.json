@@ -165,6 +165,21 @@
         "version": ""
     },
     {
+        "id": 89250532,
+        "name": "relativity-templates",
+        "full_name": "relativitydev/relativity-templates",
+        "html_url": "https://github.com/relativitydev/relativity-templates",
+        "description": "Templates for Relativity Event Handlers, Custom Pages, and Agents.",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "partner": "RELATIVITY",
+        "authorType": "relativity",
+        "projectType": "app",
+        "topics": [],
+        "isFeatured": false,
+        "version": ""
+    },
+    {
         "id": 75880738,
         "name": "remove-tde-sql",
         "full_name": "relativitydev/remove-tde-sql",
@@ -429,21 +444,6 @@
         "forks_count": 0,
         "partner": "relativity",
         "authorType": "open source community",
-        "projectType": "app",
-        "topics": [],
-        "isFeatured": false,
-        "version": ""
-    },
-    {
-        "id": 89250532,
-        "name": "relativity-templates",
-        "full_name": "relativitydev/relativity-templates",
-        "html_url": "https://github.com/relativitydev/relativity-templates",
-        "description": "Templates for Relativity Event Handlers, Custom Pages, and Agents.",
-        "stargazers_count": 0,
-        "forks_count": 0,
-        "partner": "RELATIVITY",
-        "authorType": "relativity",
         "projectType": "app",
         "topics": [],
         "isFeatured": false,

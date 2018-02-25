@@ -59,6 +59,21 @@
         "isFeatured": true,
         "version": "9.5"
     },
+	{
+        "id": 121656565,
+        "name": "code-vault",
+        "full_name": "relativitydev/code-vault",
+        "html_url": "https://github.com/relativitydev/code-vault",
+        "description": "Open Source Community: A loose-leaf collection of undocumented code samples.",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "partner": "relativity",
+        "authorType": "open source community",
+        "projectType": "tool",
+        "topics": [],
+        "isFeatured": true,
+        "version": "9.5"
+    },
     {
         "id": 107443425,
         "name": "salesforce_rip_connector",

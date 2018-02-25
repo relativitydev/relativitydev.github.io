@@ -9,19 +9,15 @@
     },
     {
         "partner": "relativity",
-        "repository": "salesforce_rip_connector"
+        "repository": "datagrid-audit-api-samples"
     },
     {
         "partner": "relativity",
-        "repository": "rip_social_media_provider"
+        "repository": "code-vault"
     },
     {
         "partner": "nserio",
         "repository": "processing-assistant"
-    },
-    {
-        "partner": "relativity",
-        "repository": "datagrid-audit-api-samples"
     }
      
      

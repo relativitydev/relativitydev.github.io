@@ -44,6 +44,21 @@
         "isFeatured": true,
         "version": "9.5"
     },
+	{
+        "id": 119855612,
+        "name": "datagrid-audit-api-samples",
+        "full_name": "relativitydev/datagrid-audit-api-samples",
+        "html_url": "https://github.com/relativitydev/datagrid-audit-api-samples",
+        "description": "Open Source Community: These projects provide additional sample code when working with the DataGrid Audit API.  Please be advised that this is not an exhaustive list, but just some additional samples indicating how to use certain portions of the API.  This API should be used when interacting with Audit data that is being stored in DataGrid, not SQL.",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "partner": "relativity",
+        "authorType": "open source community",
+        "projectType": "tool",
+        "topics": [],
+        "isFeatured": true,
+        "version": "9.5"
+    },
     {
         "id": 107443425,
         "name": "salesforce_rip_connector",

@@ -105,21 +105,6 @@
         "version": "9.5"
     },
     {
-        "id": 123188809,
-        "name": "CombineFieldsIntoLongText",
-        "full_name": "NSerio/CombineFieldsIntoLongText",
-        "html_url": "https://github.com/NSerio/CombineFieldsIntoLongText",
-        "description": "Project Champion - NSerio, Relativity Script: Clients set up several choice fields where each field contains certain words, and then attorneys construct a sentence by choosing a value from each choice field. And then with the script, clients can now just run that to combine the chosen value from each of these choice fields into a single field. That single field then contains the complete sentence constructed from these fields.",
-        "stargazers_count": 0,
-        "forks_count": 0,
-        "partner": "nserio",
-        "authorType": "development partners",
-        "projectType": "app",
-        "topics": [],
-        "isFeatured": true,
-        "version": ""
-    },
-    {
         "id": 98329381,
         "name": "rip_social_media_provider",
         "full_name": "relativitydev/rip_social_media_provider",
@@ -177,6 +162,21 @@
         "projectType": "script",
         "topics": [],
         "isFeatured": false,
+        "version": ""
+    },
+    {
+        "id": 123188809,
+        "name": "CombineFieldsIntoLongText",
+        "full_name": "NSerio/CombineFieldsIntoLongText",
+        "html_url": "https://github.com/NSerio/CombineFieldsIntoLongText",
+        "description": "Project Champion - NSerio, Relativity Script: Clients set up several choice fields where each field contains certain words, and then attorneys construct a sentence by choosing a value from each choice field. And then with the script, clients can now just run that to combine the chosen value from each of these choice fields into a single field. That single field then contains the complete sentence constructed from these fields.",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "partner": "nserio",
+        "authorType": "development partners",
+        "projectType": "app",
+        "topics": [],
+        "isFeatured": true,
         "version": ""
     },
     {

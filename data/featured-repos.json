@@ -18,7 +18,9 @@
     {
         "partner": "nserio",
         "repository": "processing-assistant"
-    }
-     
-     
+    },
+    {
+        "partner": "relativity",
+        "repository": "dbcontext-helper"
+    } 
 ]

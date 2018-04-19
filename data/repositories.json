@@ -59,6 +59,21 @@
         "isFeatured": true,
         "version": "9.5"
     },
+    {
+        "id": 128964262,
+        "name": "dbcontext-helper",
+        "full_name": "relativitydev/dbcontext-helper",
+        "html_url": "https://github.com/relativitydev/dbcontext-helper",
+        "description": "Open Source Community: We have a created a helper to accommodate the removal of the implementation of the IDBContext contract mentioned in this community post https://community.relativity.com/s/feed/0D55000005WgPOUCA3",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "partner": "relativity",
+        "authorType": "open source community",
+        "projectType": "tool",
+        "topics": [],
+        "isFeatured": true,
+        "version": "9.5"
+    },
 	{
         "id": 121656565,
         "name": "code-vault",

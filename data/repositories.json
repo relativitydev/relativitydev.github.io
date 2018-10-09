@@ -315,21 +315,6 @@
         "version": ""
     },
     {
-        "id": 86351485,
-        "name": "agent-utilities",
-        "full_name": "relativitydev/agent-utilities",
-        "html_url": "https://github.com/relativitydev/agent-utilities",
-        "description": "Open Source Community: Agent Utilities is a .NET class library which contains methods for querying, creating, updating and deleting Relativity agents.",
-        "stargazers_count": 0,
-        "forks_count": 0,
-        "partner": "relativity",
-        "authorType": "open source community",
-        "projectType": "tool",
-        "topics": [],
-        "isFeatured": false,
-        "version": ""
-    },
-    {
         "id": 86389036,
         "name": "update-field-with-combined-image-size",
         "full_name": "relativitydev/update-field-with-combined-image-size",

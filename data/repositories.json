@@ -44,6 +44,21 @@
         "isFeatured": true,
         "version": "9.5"
     },
+    {
+        "id": 213423228,
+        "name": "wikitivity",
+        "full_name": "relativitydev/wikitivity",
+        "html_url": "https://github.com/relativitydev/wikitivity",
+        "description": "Open Source Community: A community supported Relativity application designed to create custom sample data sets from Wikipedia.",
+        "stargazers_count": 4,
+        "forks_count": 2,
+        "partner": "relativity",
+        "authorType": "relativity",
+        "projectType": "tool",
+        "topics": [],
+        "isFeatured": true,
+        "version": "9.5"
+    },
 	{
         "id": 119855612,
         "name": "datagrid-audit-api-samples",
